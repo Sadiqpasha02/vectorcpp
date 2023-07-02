@@ -42,6 +42,6 @@ public:
 };
 int main()
 {   Vector v;
-    cout << "Hello world!" << endl;
+    
     return 0;
 }
